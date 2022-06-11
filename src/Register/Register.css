@@ -1,0 +1,119 @@
+.b5 {
+    color: white;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 7px;
+}
+
+.b3 {
+    background-image: linear-gradient(purple, blue);
+    /* flex-grow: 1; */
+    width: 50%;
+    border-radius: 30px 0px 0px 30px;
+    /* box-shadow: 0px 0px 15px 8px lightgray; */
+}
+
+.b4 {
+    background-image: linear-gradient(purple, blue);
+    /* flex-grow: 1; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    width: 50%;
+    border-radius: 0px 30px 30px 0px;
+    /* box-shadow: 0px 0px 0px 0px lightgray; */
+}
+
+.b6 {
+    /* background-color: white; */
+    /* height: 70px; */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.b7 {
+    font-size: 17px;
+    font-family: "Arial";
+    color: white;
+}
+
+.b8 {
+    height: 30px;
+    margin-top: 5px;
+    /* margin-top: 7px; */
+    font-size: 16px;
+    color: gray;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+    background-color: lightgray;
+    /* background-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px; */
+}
+
+.v1 {
+    margin-top: 47px;
+}
+
+.b9 {
+    /* background-color: yellow; */
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.b10 {
+    width: 50%;
+    height: 35px;
+    background-color: gray;
+    color: white;
+    font-family: "Arial";
+    border-radius: 20px;
+    border: none;
+    margin-top: 68px;
+    font-size: 15px;
+    transition: 0.5s;
+}
+
+.b10:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.b2 {
+    /* background-color: white; */
+    width: 65%;
+    height: 65vh;
+    border-radius: 20px;
+    /* box-shadow: 0px 0px 12px 5px lightgray; */
+    display: flex;
+    flex-direction: row;
+}
+
+.b11 {
+    width: 30%;
+    height: 35px;
+    background-color: gray;
+    color: white;
+    font-family: "Arial";
+    border-radius: 20px;
+    border: none;
+    margin-top: 68px;
+    font-size: 15px;
+    transition: 0.5s;
+    margin-left: 10px;
+}
+
+.b11:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}

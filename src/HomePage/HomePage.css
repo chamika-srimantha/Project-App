@@ -1,0 +1,87 @@
+.dd1 {
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.dd2 {
+    background-image: linear-gradient(-120deg,blue,red,blue,red);
+    width: 60%;
+    height: 70vh;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px 8px lightgray;
+    display: flex;
+    flex-direction: column;
+    
+}
+/* 
+.dd3 {
+    background-image: linear-gradient(-120deg, blue,red);
+    border-radius: 30px 0px 0px 30px;
+    width: 50%;
+}
+
+.dd4 {
+    background-image: linear-gradient(-60deg, blue, red);
+    border-radius: 0px 30px 30px 0px;
+    width: 50%;
+} */
+
+.fff1 {
+    background-color: gray;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 5vh;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.fff2 {
+    margin-top: 16px;
+}
+
+.hh1 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.hh2 {
+    text-align: center;
+    padding-top: 10px;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.hh3 {
+    align-items: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.hh4 {
+    color: rgb(219, 215, 215);
+    padding-left: 12px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.hh5 {
+    color: rgb(219, 215, 215);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 18px;
+}

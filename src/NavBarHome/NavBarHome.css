@@ -1,0 +1,25 @@
+.xxxx {
+    color: white;
+    font-family: cursive;
+}
+
+.xxxx:hover {
+    color: aqua;
+}
+
+.xxxx:focus{
+    color: aqua;
+}
+
+.yyyy {
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.yyyy:hover {
+    color: white;
+}
+
+.yyyy:focus{
+    color: white;
+}
